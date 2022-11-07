@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="captureImg" type="id" />
+    <item name="capture" type="id" />
+    <item name="previewView" type="id" />
+    <item name="linearLayout" type="id" />
+</resources>
